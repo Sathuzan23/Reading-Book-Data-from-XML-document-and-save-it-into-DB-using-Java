@@ -1,0 +1,13 @@
+<library>
+    <book>
+        <title>Java Programming</title>
+        <author>John Doe</author>
+        <year>2022</year>
+    </book>
+    <book>
+        <title>Data Structures in Java</title>
+        <author>Jane Smith</author>
+        <year>2021</year>
+    </book>
+    <!-- More book entries if needed -->
+</library>
